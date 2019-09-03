@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Assignment 1: Matlab Scavenger Hunt and HelloWorld
 %
-% Submitted by:Hannah Black
+% Submitted by:Hannah Black 
 %
 % Due: September 3, 2019
 %
